@@ -2,6 +2,13 @@
 
     Sub Main()
 
+        'mardi()
+        bienvenue()
+
+        Console.ReadLine()
+    End Sub
+
+    Sub mardi()
         Dim maVariable As String = "gobelet"
         Dim nombre As Integer = 5
 
@@ -27,8 +34,6 @@
 
             compteur += 1
         End While
-
-        Console.ReadLine()
     End Sub
 
 End Module

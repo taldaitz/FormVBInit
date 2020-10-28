@@ -40,18 +40,6 @@
         '    Console.WriteLine(element)
         'Next
 
-        Dim saisie As String = Console.ReadLine()
-        Dim chiffre As Integer
-
-        Integer.TryParse(saisie, chiffre)
-
-        If chiffre = Nothing Then
-            Console.WriteLine("Ceci n'est pas un chiffre")
-        Else
-            Console.WriteLine("{0} est bien un chiffre", chiffre)
-        End If
-
-
         Console.ReadLine()
 
     End Sub

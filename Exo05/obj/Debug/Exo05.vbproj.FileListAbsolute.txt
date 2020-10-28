@@ -1,0 +1,11 @@
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\bin\Debug\Exo05.exe.config
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\bin\Debug\Exo05.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\bin\Debug\Exo05.pdb
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\bin\Debug\Exo05.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\obj\Debug\Exo05.vbprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\obj\Debug\Exo05.Resources.resources
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\obj\Debug\Exo05.vbproj.GenerateResource.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\obj\Debug\Exo05.vbproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\obj\Debug\Exo05.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\obj\Debug\Exo05.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\Exo05\obj\Debug\Exo05.pdb

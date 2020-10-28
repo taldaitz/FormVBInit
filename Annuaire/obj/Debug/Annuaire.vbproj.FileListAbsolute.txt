@@ -1,0 +1,11 @@
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\bin\Debug\Annuaire.exe.config
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\bin\Debug\Annuaire.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\bin\Debug\Annuaire.pdb
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\bin\Debug\Annuaire.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\obj\Debug\Annuaire.vbprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\obj\Debug\Annuaire.Resources.resources
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\obj\Debug\Annuaire.vbproj.GenerateResource.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\obj\Debug\Annuaire.vbproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\obj\Debug\Annuaire.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\obj\Debug\Annuaire.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\Annuaire\obj\Debug\Annuaire.pdb
