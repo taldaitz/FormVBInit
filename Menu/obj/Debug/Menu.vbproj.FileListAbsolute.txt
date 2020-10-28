@@ -1,0 +1,11 @@
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\bin\Debug\Menu.exe.config
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\bin\Debug\Menu.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\bin\Debug\Menu.pdb
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\bin\Debug\Menu.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\obj\Debug\Menu.vbprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\obj\Debug\Menu.Resources.resources
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\obj\Debug\Menu.vbproj.GenerateResource.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\obj\Debug\Menu.vbproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\obj\Debug\Menu.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\obj\Debug\Menu.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\Menu\obj\Debug\Menu.pdb

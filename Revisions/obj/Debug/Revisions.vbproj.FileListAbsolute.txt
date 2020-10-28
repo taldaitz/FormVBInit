@@ -1,0 +1,11 @@
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\bin\Debug\Revisions.exe.config
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\bin\Debug\Revisions.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\bin\Debug\Revisions.pdb
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\bin\Debug\Revisions.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\obj\Debug\Revisions.vbprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\obj\Debug\Revisions.Resources.resources
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\obj\Debug\Revisions.vbproj.GenerateResource.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\obj\Debug\Revisions.vbproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\obj\Debug\Revisions.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\obj\Debug\Revisions.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\Revisions\obj\Debug\Revisions.pdb

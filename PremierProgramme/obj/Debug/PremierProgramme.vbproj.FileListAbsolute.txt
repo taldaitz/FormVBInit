@@ -1,0 +1,11 @@
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\bin\Debug\PremierProgramme.exe.config
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\bin\Debug\PremierProgramme.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\bin\Debug\PremierProgramme.pdb
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\bin\Debug\PremierProgramme.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\obj\Debug\PremierProgramme.vbprojAssemblyReference.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\obj\Debug\PremierProgramme.Resources.resources
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\obj\Debug\PremierProgramme.vbproj.GenerateResource.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\obj\Debug\PremierProgramme.vbproj.CoreCompileInputs.cache
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\obj\Debug\PremierProgramme.exe
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\obj\Debug\PremierProgramme.xml
+C:\Users\Dawan\source\repos\FormationVBInitiation\PremierProgramme\obj\Debug\PremierProgramme.pdb
